@@ -2,7 +2,7 @@ Allez Courage !
 ===================
 
 
-Votre mission cette semaine est...encore du Bootstrap. Oh noooooon, eh si, mais ne dÈsespÈrez pas, vous ne partez pas sur un terrain inconnu cette fois. C'est en forgeant que l'on devient forgeron ! Promis aprËs on essaye de changer ! Que la force soit avec vous. 
+Votre mission cette semaine est...encore du Bootstrap. Oh noooooon, eh si, mais ne d√©sesp√©rez pas, vous ne partez pas sur un terrain inconnu cette fois. C'est en forgeant que l'on devient forgeron ! Promis apr√®s on essaye de changer ! Que la force soit avec vous. 
 
 ----------
 
@@ -10,29 +10,29 @@ Votre mission cette semaine est...encore du Bootstrap. Oh noooooon, eh si, mais 
 ![soledad](http://joinmein.miami/wp-content/uploads/2016/02/soledad-capture-1024x589.jpg)
 -------------
 
-On repart sur le mÍme principe mais avec ce site :  [Soledad](http://pencidesign.com/soledad/soledad-fashion-lifestyle). 
+On repart sur le m√™me principe mais avec ce site :  [Soledad](http://pencidesign.com/soledad/soledad-fashion-lifestyle). 
 
 > **Notes:**
 
-> - La premiËre navbar ne fait pas partie du site, elle n'est pas ‡ rÈaliser.
-> - Les menus dÈroulants de la deuxiËme navbar ne sont pas ‡ faire.
-> - **Tous les effets, comme les changements ‡ la souris, les dÈfilements d'images, vidÈos etc..SONT DES BONUS !**
-> - Nous serons trËs content si vous gÈrez la base sans vous soucier des effets qui rendent le site super swag.
+> - La premi√®re navbar ne fait pas partie du site, elle n'est pas √† r√©aliser.
+> - Les menus d√©roulants de la deuxi√®me navbar ne sont pas √† faire.
+> - **Tous les effets, comme les changements √† la souris, les d√©filements d'images, vid√©os etc..SONT DES BONUS !**
+> - Nous serons tr√®s content si vous g√©rez la base sans vous soucier des effets qui rendent le site super swag.
 
 #### <i class="icon-hdd"></i> Exportation de votre projet
 
-> **Le rendu sera ‡ faire sur github, dans votre dÈpÙt ‡ l'aide de git.**
+> **Le rendu sera √† faire sur github, dans votre d√©p√¥t √† l'aide de git.**
 
 
 
 ----------
 
-### RÈpartition des Èquipes
+### R√©partition des √©quipes
 
 1)	ROUXEL Florian -	EL HADDIOUI Mhamed
 2)	SEITE Romain -		HENNEBERT Lea
-3)	ROMER Olivier -		MASSIOT FranÁois
-4)	DELCOURT DÈborah -	LAURENT Benoit
+3)	ROMER Olivier -		MASSIOT Fran√ßois
+4)	DELCOURT D√©borah -	LAURENT Benoit
 5)	GUILLOU Jonathan -	ANSCHULTZ Jessica
 6)	CORMIER Marine -	MAIGNE Eliez
 7)	KEPL-DANET Alice -	GERVAIS Roxane
@@ -41,4 +41,4 @@ On repart sur le mÍme principe mais avec ce site :  [Soledad](http://pencidesign
 10)	DOUARD Alexandre -	MELLEC Benjamin
 11)	DEMBELE Fatoumata -	NICOLO Regis
 12)	BOUTTIER Alexandre -	ABDI DJAMA Bilane
-13) 	LE ROUX Carole (oui tu es toute seule ^_^')
+13) LE ROUX Carole (oui tu es toute seule ^_^')
